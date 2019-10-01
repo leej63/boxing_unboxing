@@ -1,0 +1,11 @@
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\bin\Debug\netcoreapp2.2\Boxing & Unboxing.deps.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\bin\Debug\netcoreapp2.2\Boxing & Unboxing.runtimeconfig.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\bin\Debug\netcoreapp2.2\Boxing & Unboxing.runtimeconfig.dev.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\bin\Debug\netcoreapp2.2\Boxing & Unboxing.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\bin\Debug\netcoreapp2.2\Boxing & Unboxing.pdb
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\obj\Debug\netcoreapp2.2\Boxing & Unboxing.csprojAssemblyReference.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\obj\Debug\netcoreapp2.2\Boxing & Unboxing.csproj.CoreCompileInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\obj\Debug\netcoreapp2.2\Boxing & Unboxing.AssemblyInfoInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\obj\Debug\netcoreapp2.2\Boxing & Unboxing.AssemblyInfo.cs
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\obj\Debug\netcoreapp2.2\Boxing & Unboxing.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Boxing & Unboxing\obj\Debug\netcoreapp2.2\Boxing & Unboxing.pdb
