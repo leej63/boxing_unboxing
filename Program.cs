@@ -17,20 +17,19 @@ namespace Boxing___Unboxing
             example.Add("chair");
 
             // Loop through the list and print all values (Hint: Type Interference might help here!)
-            for(int i = 0; i < example.Count; i++)
+            foreach(var i in example)
             {
-                Console.WriteLine(example[i]);
+                Console.WriteLine(i);
             }
 
             // // Add all values that are int type together and output the sum
-            // for(int j = 0; j < example.Count; j++)
-            //     int sum = 0;
-            // {
-            //     if(example[j] is int)
-            //     {
-            //         sum += example[j];
-            //     }
-            // }
+            int sum = 0;
+            foreach(var i in example){
+                if(i is int){
+                    sum += (int)i;
+                }
+            }
+            Console.WriteLine(sum);
         }
     }
 }
